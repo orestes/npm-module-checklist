@@ -53,6 +53,7 @@ Use [save-exact](https://docs.npmjs.com/misc/config#save-exact) NPM setting and 
 or [fixpack](https://github.com/henrikjoreteg/fixpack)
 - [ ] write simple installation commands for your module
 - [ ] write &quot;quick intro&quot; example showing the main feature of your module
+- [ ] include the code example in your `package.json` so it shows on when a user is testing your module on [Tonic](https://tonicdev.uservoice.com/knowledgebase/articles/765846-how-do-i-customize-the-example-for-my-npm-package)
 - [ ] add CONTRIBUTING.md file with clear guidelines how others can add new features or fix bugs
 in your module. [Atom editor](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) and [lodash](https://github.com/lodash/lodash/blob/master/CONTRIBUTING.md) have excellent examples to follow.
 When GitHub finds a CONTRIBUTING.md file it [shows a message](https://github.com/blog/1184-contributing-guidelines) to anyone opening an issue.
